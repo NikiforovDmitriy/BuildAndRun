@@ -1,0 +1,4 @@
+#Mon Nov 07 11:12:39 ALMT 2022
+base.0=/home/dmitriy/Documents/Unity/Tech/Draw and Run/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
